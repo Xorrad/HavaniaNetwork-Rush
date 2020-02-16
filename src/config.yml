@@ -1,0 +1,100 @@
+max-distance-to-spawn: 100
+max-player: 4
+teams:
+  red:
+    name: "Rouge"
+    color: "&c"
+    woolId: 14
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0"
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: true
+  blue:
+    name: "Bleu"
+    color: "&b"
+    woolId: 11
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0"
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: true
+  green:
+    name: "Vert"
+    color: "&a"
+    woolId: 5
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0"
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: true
+  yellow:    
+    name: "Jaune"
+    color: "&e"
+    woolId: 4   
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0"
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: true
+  grey:    
+    name: "Gris"
+    color: "&7"
+    woolId: 8   
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0" 
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: false
+  purple:    
+    name: "Violet"
+    color: "&5"
+    woolId: 10   
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0"
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: false
+  orange:    
+    name: "Orange"
+    color: "&6"
+    woolId: 1    
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0"
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: false
+  white:    
+    name: "Blanc"
+    color: "&f"
+    woolId: 0  
+    spawn: "world,0,0,0,90,0"
+    bed: "world,0,0,0"
+    resources_spawn: 
+        1: "world,0,0,0"
+        2: "world,0,0,0"
+        3: "world,0,0,0"
+        4: "world,0,0,0"
+    enable: false
+protected-area:

@@ -1,0 +1,10 @@
+main: net.havania.rush.Rush
+version: 1.0
+name: HavaniaRush
+author: Xorrad
+commands:
+    start:
+    spec:
+    team:
+    center_villager:
+    secure_zone:
